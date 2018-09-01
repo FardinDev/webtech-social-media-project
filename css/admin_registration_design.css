@@ -1,0 +1,68 @@
+body{
+	background-image: url('../website_icon/background2.jpg');
+	background-color: #F0F0F0;
+	text-align: center;
+	margin-top: 5%;
+}
+
+#registration_form{
+	background-color: #FFFFFF;
+	display: inline-block;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 40px;
+	padding-bottom: 50px;
+	border-radius: 15px;
+}
+
+#userMsg,#emailMsg,#paserror,#repaserror{
+	position: fixed;
+}
+
+#form_title{
+	color: #5e6fb5;
+	text-align: left;
+	border-radius: 15px;
+}
+
+#fname_field,#lname_field,#username_field,#email_field,#password_field,#repassword_field{
+	background-color: #D0D0D0;
+	padding-right: 150px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 3px;
+	border-radius: 10px;
+}
+
+#fname,#lname,#username,#email,#password,#repassword{
+	border-style:none;
+	background-color: #D0D0D0;
+	color: #000000;
+	
+}
+
+#login_link{
+	color:#03A9F4;
+	text-decoration: none;
+}
+#home_link{
+	color: #4CAF50;
+	text-decoration: none;
+}
+#regi_btn_div{
+	text-align:center;
+	margin-left: 4px;
+}
+
+#submitButton{
+	color:#ffffff;
+	background-color:#ff1744;
+	font-weight:bold;
+	border-style:none;
+	padding-right: 92px;
+	padding-left: 120px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 45px;
+	
+}

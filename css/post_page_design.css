@@ -1,0 +1,45 @@
+#post_ad{
+	margin-top:20px;
+	margin-left: 25%;
+	padding: 40px;
+	padding-left: 80px;
+	padding-right: 80px;
+	background-color: #fcfcfc;
+	width: 450px;
+	border-color: #efeee6;
+	border-style: solid;
+}
+#ad_post_button{
+	border-style: groove;
+	width: 100px;
+	height: 30px;
+	border-bottom-color: #f9e20c;
+	color: white;
+	background-color: #0bddda;
+	cursor:pointer;
+}
+
+.each_post{
+	background-color: #f9fbff;
+}
+
+
+
+table, th, td {
+    border: 1px groove blue;
+	text-align: center;
+}
+
+#my_table{
+		padding: 10px;
+}
+
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#all_post_table_div{
+	padding: 10px;
+}

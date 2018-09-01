@@ -1,0 +1,42 @@
+body{
+	background-color: #EEEEEE;
+}
+
+#profile_div{
+	margin: auto;
+	text-align: center;
+	width: 600px;
+	background-color: #FFFFFF;
+	margin-top: 50px;
+	border-radius: 10px;
+	border-style: groove;
+	border-color: #47D2E9;
+	margin-bottom: 100px;
+}
+
+
+
+#pro_pic{
+	padding: 10px;
+	border-color: #546c5c;
+	border-style: solid;
+	border-radius: 100px;
+}
+
+
+#pic_form{
+	padding: 10px;
+}
+
+#pic_div{
+	background-color:#47D2E9;
+	text-align: center;
+	
+	
+}
+
+#basic_info{
+	margin: auto;
+	display: block;
+	padding: 15px;
+}

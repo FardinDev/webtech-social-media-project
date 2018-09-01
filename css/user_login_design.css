@@ -1,0 +1,70 @@
+
+body{
+	
+	background-color: white;
+	font-family:  "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:center;
+	margin-top: 150px;
+	background-image: url('../profile_picture/Website-Design-Background.png');
+	background-repeat: no-repeat;
+	
+}
+}
+
+#loginform{
+	background-color: black;
+	display: inline-block;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 40px;
+	padding-bottom: 50px;
+	border-radius: 45px;
+}
+
+#login_header{
+	text-align: centre;
+	font-size: 25px;
+	color: #35407a;
+}
+
+#username_login_field,#password_login_field{
+	background-color: #FFFFFF;
+	padding-right: 150px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 3px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: black;
+}
+
+#username,#password{
+	color: white;
+	background-color: white;
+	border-style: none;
+}
+
+#login_btn_div{
+	text-align: center;
+}
+
+#loginButton{
+	background-color: #3300FF;
+	color: #ffffff;
+	font-weight: bold;
+	border-style: none;
+	padding-left: 90px;
+	padding-right: 90px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 25px;
+}
+
+#signup_link{
+	color:#CC0000;
+	text-decoration: none;
+}
+h2
+{
+	color : white;
+}

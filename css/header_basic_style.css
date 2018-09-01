@@ -1,0 +1,56 @@
+body{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	color: white;
+	
+	
+}
+
+
+#home{
+	text-decoration: none;
+	margin-right: 200px;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	margin-left: 120px;
+}
+
+#profile,#logout{
+	color: #ffffff;
+	font-size: 18px;
+	text-decoration: none;
+	
+}
+
+#home:hover,#profile:hover,#logout:hover{
+	font-size: 20px;
+	color: red;
+}
+
+.top_header_logged{
+	background-color:#021322;
+	height: 60px;
+	color:white;
+	padding: 10px;
+	
+}
+
+#home_link{
+	margin-left: 100px;
+	vertical-align: middle;
+}
+
+#name_image{
+	margin-right: 250px;
+	
+}
+
+
+
+
+
+
+	
+
